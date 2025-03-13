@@ -2,7 +2,7 @@
 This is my first Python project by Rikuto! It prints "Hello, GitHub!" to help me learn coding and Git. 🐈
 
 ## How to Run
-1. Clone this repository: `git clone https://github.com/rikuto-mikado/hello-github.git`
+1. Clone this repository: `git clone` [https://github.com/rikuto-mikado/hello-github.git]
 2. Navigate to the folder: `cd hello-github`
 3. Run the script: `python hello_github.py`
 
